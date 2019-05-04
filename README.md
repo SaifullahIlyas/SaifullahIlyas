@@ -2,7 +2,7 @@
 Welcome to Github 
 My name is saifullah.i am from pakistan. i am the computer scientist that loves to programe in swift,kotlin and java.
 i have worked on diffrent native mobile  application . I use kotlin and java for android development while swift for Ios
-development. i am also the owner of the organization codeRecip that is mentioned in the link [I'm an inline-style link](https://github.com/coderecip)
+development. i am also the owner of the organization codeRecip that is mentioned in the link [Coderecip](https://github.com/coderecip)
 Below are the list of some projects that i have completed
 # smartLecture converter
 This is ios app and is written in swift using xcode 10.1.
