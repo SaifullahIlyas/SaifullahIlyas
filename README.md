@@ -54,4 +54,10 @@ This is an antivirus app used to scan system for malware and install another con
  ### Technologies used
  
    1. Android services 
+   # Bracode Scanner
+This is barcode scanner used to scan qrcode .
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/qrcodeScanner/orderpic.jpeg" width=200>  
+ 
+   1. Google Vison api
+   2.Camera api
    
