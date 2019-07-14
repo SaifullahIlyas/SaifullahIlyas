@@ -50,10 +50,8 @@ These screenshots are taken from other application.
    2. firebase for realtime update
    # Antivirus Android
 This is an antivirus app used to scan system for malware and install another configuration app from this.
-
- <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/Antivirus/Screenshot_1563081576.png" width=200>   
- <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/Antivirus/Screenshot_1563081582.png" width=200> 
- <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/Antivirus/Screenshot_1563081593.png" width=200>
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/Antivirus/Screenshot_1563081576.png" width=200>   <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/Antivirus/Screenshot_1563081582.png" width=200> <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/Antivirus/Screenshot_1563081593.png" width=200>
  ### Technologies used
+ 
    1. Android services 
    
