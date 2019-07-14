@@ -22,6 +22,23 @@ This App Overcome the Quran recitation issue for the visually impaired people by
    2. Text to speach
    3. Dialogflow
    4. firebase
+   # Call Sms Blocker(Android)
+This is an Android App written in Java .
+This app facliltate to mangage the call and sms.
+
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038674.png" width=200> <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038678.png" width=200>     <img src="" width=200>  <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038685.png" width=200>  <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038691.png" width=200>  <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038722.png" width=200>   <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038722.png" width=200>   <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038728.png" width=200> 
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038735.png" width=200> 
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038738.png" width=200> 
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038754.png" width=200> 
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038766.png" width=200> 
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038773.png" width=200> 
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallSmsBlocker/Screenshot_1563038790.png" width=200>
+
+### Technologies used
+   1. Android
+   2. Sqllite
+   3. Room
+   4. Broadcast Receiver
 
 # GoogleMap Feature
 This is the ios app written in swift to explore the google map and google places SDK
