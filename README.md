@@ -55,5 +55,5 @@ This is an antivirus app used to scan system for malware and install another con
  <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/Antivirus/Screenshot_1563081582.png" width=200> 
  <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/Antivirus/Screenshot_1563081593.png" width=200>
  ### Technologies used
-   1. Google Map
-   2. firebase for realtime update
+   1. Android services 
+   
