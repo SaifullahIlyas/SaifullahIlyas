@@ -62,3 +62,19 @@ This is barcode scanner used to scan qrcode .
    1. Google Vison api
    2.Camera api
    
+   # Unique WebView App
+This is the custom webview app implemented on the concept of browser and include diffrent type of ad sdk init .
+
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/UniqueWebview/Screenshot_1564809529.png" width=200>  
+ 
+  1.Difrrent add Sdk
+   # Call Log Backup
+This is the call log backup app developed for company to backup all the call log from employ phones to google sheet instantly and generate alert on the basis of time onsumption .
+
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallLogBackUp/Screenshot_1564809360.png" width=200>  
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallLogBackUp/Screenshot_1564809402.png" width=200> 
+ 
+  1.Google Sheets
+  2.Background services
+  3.BroadCast Receiver
+   
