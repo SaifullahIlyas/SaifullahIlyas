@@ -71,7 +71,7 @@ This is the custom webview app implemented on the concept of browser and include
    # Call Log Backup
 This is the call log backup app developed for company to backup all the call log from employ phones to google sheet instantly and generate alert on the basis of time onsumption .
 
-<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallLogBackUp/Screenshot_1564809360.png" width=200><img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallLogBackUp/Screenshot_1564809402.png" width=200> 
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallLogBackUp/Screenshot_1564809360.png" width=200>   <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/CallLogBackUp/Screenshot_1564809402.png" width=200> 
  
   1.Google Sheets
   2.Background services
