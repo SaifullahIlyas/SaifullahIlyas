@@ -17,16 +17,6 @@ some of the screenshots of the app are
    2. Translation Api
    3. Image processing
    4. firebase
-# Quranic Helper 
-This is an Android App written in Java and kotlin.
-This App Overcome the Quran recitation issue for the visually impaired people by using the techniques of speech recognition, gesture detection and text to speech engine(tts).
-
-<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/QuranicFinger.jfif" width=200> <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/QuranicHome.jfif" width=200>     <img src="" width=200>  <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/Quranicpara.jfif" width=200>  <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/QuranicSurah.jfif" width=200>  <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/Qranicplayer.jfif" width=200>   <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/Quranicfeed.jfif" width=200>   <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/QuranicRate.jfif" width=200> 
-### Technologies used
-   1. Speach Recognition
-   2. Text to speach
-   3. Dialogflow
-   4. firebase
    # Call Sms Blocker(Android)
 This is an Android App written in Java .
 This app facliltate to mangage the call and sms.
@@ -45,14 +35,7 @@ This app facliltate to mangage the call and sms.
    3. Room
    4. Broadcast Receiver
 
-# GoogleMap Feature
-This is the ios app written in swift to explore the google map and google places SDK
-These screenshots are taken from other application.
 
- <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/GooggleMapsdkimg/googlemapsdk4.png" width=200>   <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/GooggleMapsdkimg/googlemapsdk5.png" width=200> 
- ### Technologies used
-   1. Google Map
-   2. firebase for realtime update
    # Antivirus Android
 This is an antivirus app used to scan system for malware and install another configuration app from this.
 <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/Antivirus/Screenshot_1563081576.png" width=200>   <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/Antivirus/Screenshot_1563081582.png" width=200> <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/Antivirus/Screenshot_1563081593.png" width=200>
@@ -81,4 +64,15 @@ This is the call log backup app developed for company to backup all the call log
   1.Google Sheets
   2.Background services
   3.BroadCast Receiver
+  
+  # Quranic Helper 
+This is an Android App written in Java and kotlin.
+This App Overcome the Quran recitation issue for the visually impaired people by using the techniques of speech recognition, gesture detection and text to speech engine(tts).
+
+<img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/QuranicFinger.jfif" width=200> <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/QuranicHome.jfif" width=200>     <img src="" width=200>  <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/Quranicpara.jfif" width=200>  <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/QuranicSurah.jfif" width=200>  <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/Qranicplayer.jfif" width=200>   <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/Quranicfeed.jfif" width=200>   <img src="https://github.com/SaifullahIlyas/SaifullahIlyas.github.io/blob/master/QuranicHelperimg/QuranicRate.jfif" width=200> 
+### Technologies used
+   1. Speach Recognition
+   2. Text to speach
+   3. Dialogflow
+   4. firebase
    
