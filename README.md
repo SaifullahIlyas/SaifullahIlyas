@@ -1,5 +1,5 @@
 # SaifullahIlyas.github.io
-Welcome to Github, My name is Saifullah. I am from Pakistan. I am the computer scientist that loves to program in swift,kotlin, and java. I have worked on the different native mobile application. I use kotlin and java for android development while swift for Ios development. I am also the owner of the organization codeRecip that is mentioned in the link Coderecip Below are the list of some projects that I have completed.
+Welcome to Github, My name is Saifullah. I am from Pakistan. I am the computer scientist that loves to program in swift,kotlin, and java. I have worked on the different native mobile application. I use kotlin and java for android development while swift for Ios development. i always ready to dive into new challenging role as an mobile app developer. i love to explore new technologies.
 # CabstartUp
 Cabstartup is the cloud base ride hailing solution. I am working  as an iOS Developer  at cabstartup.i am product maintainer and my job is to rebrand new app from the exitising right hailing solution and to improve app perofomance.here are the appstore links of cabstartup driver and passenger respectively https://apps.apple.com/za/app/cabstartup-passenger/id1350338216 https://apps.apple.com/za/app/cabstartup-driver/id1350338212
 ### Technologies used
