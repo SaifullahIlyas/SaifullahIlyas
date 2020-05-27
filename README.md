@@ -5,6 +5,11 @@ Cabstartup is the cloud base ride hailing solution. I am working  as an iOS Deve
 ### Technologies used
   Xcode,Swift,Core animation , Alamofire , Socket.Io,Stripe, Braintree, CardIO, Fastlane, Firebase, AppCenter,Git
   
+  # Bidsquad
+Bidsquad  is the service provider company mainly focusing  in Home Service i.e Cleaning , Flooring etc .i am working as an iOS developer at bidsquad app availble at appstore https://www.apple.com/us/search/bidsquad?src=globalnav. i also developed bidsquad apps from scratch.
+### Technologies used
+  Xcode,Swift,Core animation , Alamofire , Socket.Io,Stripe, Braintree, CardIO, Fastlane, Firebase, AppCenter,Git
+  
 # smartLecture converter
 This is an ios app and is written in swift using XCode 10.1.
 This is the project used to facilitate the students that are not able to understand the English language. Students can put the English text image
